@@ -1,16 +1,16 @@
-# Credit Risk Model Validation
+# Credit Card Default Risk Model Validation
 
 ## Project Goal
 
-This project investigates whether machine learning models can predict loan default risk using borrower and loan characteristics.
+This project investigates whether machine learning models can predict credit card payment default using client demographic information, credit limits, repayment history, bill statements, and previous payment behavior.
 
-The project will compare multiple models and evaluate not only predictive performance, but also generalization, model behavior, and failure cases.
+The project will compare multiple machine learning models and evaluate not only predictive performance, but also generalization, model behavior, and failure cases.
 
 ## Problem Type
 
 - Supervised Learning
 - Binary Classification
-- Target: Loan Default
+- Target: Credit Card Payment Default
 
 ## Planned Approach
 
@@ -27,4 +27,4 @@ The project will compare multiple models and evaluate not only predictive perfor
 
 ## Status
 
-Project setup and dataset selection in progress.
+Project environment and dataset setup complete. Exploratory data analysis is in progress.
